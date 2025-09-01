@@ -17,7 +17,7 @@ I'm focused on developing practical security tools and advancing my penetration 
 ## 💻 Technical Skills
 
 **Primary Focus:** Network Security • Penetration Testing • Security Tool Development  
-**Languages:** Rust (AI-assisted) • Python • Bash • SQL  
+**Languages:** Rust (AI-assisted) • Python  
 **Security Tools:** Nmap • Burp Suite • Metasploit • Wireshark  
 **Platforms:** Linux (Kali, Ubuntu) • Docker • VMware
 
