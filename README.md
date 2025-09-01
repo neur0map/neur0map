@@ -1,50 +1,25 @@
 # Hi, I'm neur0map 👋
 
-## About Me
+## Aspiring Cybersecurity Professional
 
-I'm a cybersecurity student passionate about network security and penetration testing. Currently learning and building tools to understand how systems work and how to secure them.
+I'm focused on developing practical security tools and advancing my penetration testing skills. Currently building reconnaissance and documentation tools to streamline security workflows and CTF competitions.
 
-```python
-#!/usr/bin/env python3
+## 🚀 Featured Projects
 
-class CyberSecStudent:
-    def __init__(self):
-        self.username = "neur0map"
-        self.status = "Cybersecurity Student"
-        self.current_focus = ["Network Security", "Penetration Testing", "Tool Development"]
-        self.learning = ["Python", "Linux", "Network Protocols"]
-    
-    def get_interests(self):
-        return [
-            "🔍 Network reconnaissance",
-            "🛡️ Vulnerability assessment", 
-            "🐍 Security automation with Python",
-            "📚 CTF competitions"
-        ]
-```
+### [Manx](https://github.com/neur0map/manx) ![GitHub stars](https://img.shields.io/github/stars/neur0map/manx?style=social)
+**CLI documentation finder** that delivers instant, context-aware technical documentation directly in your terminal. Features both privacy-first snippet mode and AI-enhanced answer mode for rapid research during security assessments.
 
-## 🛠️ Current Projects
+### [IPCrawler](https://github.com/neur0map/ipcrawler) ![GitHub stars](https://img.shields.io/github/stars/neur0map/ipcrawler?style=social)
+**Automated network reconnaissance tool** designed for penetration testing and CTF competitions. Performs comprehensive scanning from DNS enumeration to service analysis, with a real-time TUI and professional report generation.
 
-### [ipcrawler](https://github.com/neur0map/ipcrawler)
-Smart network reconnaissance tool that automates penetration testing workflows. Features intelligent plugin system and multi-threaded scanning.
+> *Both tools are built in Rust with AI assistance. While I'm not a Rust expert, I leverage AI to help write efficient code while actively learning and understanding the language fundamentals.*
 
-**Stack:** Python, asyncio, network security tools
+## 💻 Technical Skills
 
----
-
-## 🎯 Learning Focus
-
-- **Network Security:** Understanding TCP/IP, protocols, and network vulnerabilities
-- **Python Development:** Building security tools and automation scripts  
-- **Penetration Testing:** Learning methodologies and hands-on practice
-- **Linux Systems:** Command line proficiency and system administration
-
-## 🔧 Tools & Technologies
-
-**Languages:** Python, Bash, SQL  
-**Security Tools:** Nmap, Burp Suite, Metasploit, Wireshark  
-**Operating Systems:** Linux (Kali, Ubuntu), Windows  
-**Other:** Git, Docker, VMware
+**Primary Focus:** Network Security • Penetration Testing • Security Tool Development  
+**Languages:** Rust (AI-assisted) • Python • Bash • SQL  
+**Security Tools:** Nmap • Burp Suite • Metasploit • Wireshark  
+**Platforms:** Linux (Kali, Ubuntu) • Docker • VMware
 
 ## 📊 GitHub Stats
 
