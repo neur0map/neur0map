@@ -21,8 +21,8 @@ I'm a cybersecurity student focused on translating what I learn into practical t
 
 **Primary Focus:** Network Security • Penetration Testing • Security Tool Development  
 **Languages:** Rust (actively learning) • Python (beginner)  
-**Security Tools:** Nmap • Burp Suite • Metasploit • Wireshark  
-**Platforms:** Linux (Kali, Ubuntu) • Docker • VMware
+**Security Tools:** Nmap • Burp Suite • Wireshark  
+**Platforms:** Linux (Kali, Parrot) • Docker • VMware
 
 ## 📊 GitHub Stats
 
