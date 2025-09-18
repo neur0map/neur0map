@@ -1,8 +1,8 @@
 # Hi, I'm neur0map 👋
 
-## Aspiring Cybersecurity Professional
+## Cybersecurity Student & Builder
 
-I'm focused on developing practical security tools and advancing my penetration testing skills. Currently building reconnaissance and documentation tools to streamline security workflows and CTF competitions.
+I'm a cybersecurity student focused on translating what I learn into practical tooling. Most days I'm breaking down exploits, documenting takeaways, and shaping them into resources other learners can use.
 
 ## 🚀 Featured Projects
 
@@ -12,12 +12,15 @@ I'm focused on developing practical security tools and advancing my penetration 
 ### [IPCrawler](https://github.com/neur0map/ipcrawler) ![GitHub stars](https://img.shields.io/github/stars/neur0map/ipcrawler?style=social)
 **Automated network reconnaissance tool** designed for penetration testing and CTF competitions. Performs comprehensive scanning from DNS enumeration to service analysis, with a real-time TUI and professional report generation.
 
-> *Both tools are built in Rust with AI assistance. While I'm not a Rust expert, I leverage AI to help write efficient code while actively learning and understanding the language fundamentals.*
+### [Docrawl](https://github.com/neur0map/docrawl) ![GitHub stars](https://img.shields.io/github/stars/neur0map/docrawl?style=social)
+**Documentation reconnaissance helper** that crawls and organizes technical references so I can document findings faster. Built to reinforce my beginner-level Python skills while supporting security research workflows.
 
-## 💻 Technical Skills
+> *All of these tools support my Rust learning journey. I lean on AI as a coding partner while working to understand the language fundamentals.*
+
+## 💻 Skills & Learning Focus
 
 **Primary Focus:** Network Security • Penetration Testing • Security Tool Development  
-**Languages:** Rust (AI-assisted) • Python  
+**Languages:** Rust (actively learning) • Python (beginner)  
 **Security Tools:** Nmap • Burp Suite • Metasploit • Wireshark  
 **Platforms:** Linux (Kali, Ubuntu) • Docker • VMware
 
@@ -31,11 +34,11 @@ I'm focused on developing practical security tools and advancing my penetration 
 
 </div>
 
-## 📫 Get in Touch
+## 🤝 Connect
 
-- 💼 Open to cybersecurity internships and learning opportunities
-- 🤝 Always interested in collaborating on security projects
-- 📧 Feel free to reach out for discussions about cybersecurity
+- Open to cybersecurity internships, study groups, and collaborative security projects
+- Always keen to swap resources or walk through labs together
+- Feel free to reach out if you're exploring similar security paths
 
 ---
 
@@ -43,4 +46,4 @@ I'm focused on developing practical security tools and advancing my penetration 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neur0map&color=blue)
 
-</div> 
+</div>
