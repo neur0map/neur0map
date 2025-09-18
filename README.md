@@ -13,7 +13,7 @@ I'm a cybersecurity student focused on translating what I learn into practical t
 **Automated network reconnaissance tool** designed for penetration testing and CTF competitions. Performs comprehensive scanning from DNS enumeration to service analysis, with a real-time TUI and professional report generation.
 
 ### [Docrawl](https://github.com/neur0map/docrawl) ![GitHub stars](https://img.shields.io/github/stars/neur0map/docrawl?style=social)
-**Documentation Focused Crawler** Automatically detects document website type(documost,vite, next doc. etc) Stays within domain, respects sitemap amd robot.txt and automatically creates folder tree structure with files and assets in markdown.
+**Documentation Focused Crawler** Automatically detects document website type (documost,vite, next doc etc) Stays within domain, respects sitemap and robots.txt and automatically creates folder tree structure with files and assets in markdown.
 > *All of these tools support my Rust learning journey. I lean on AI as a coding partner while working to understand the language fundamentals.*
 
 ## 💻 Skills & Learning Focus
