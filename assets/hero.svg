@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" fill="none" role="img" aria-label="neur0map — cybersecurity and network engineer, creator of Ryoku. For the sake of power and beauty.">
+  <title>neur0map — cybersecurity &amp; network engineer · creator of Ryoku</title>
+
+  <defs>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f04338"/>
+      <stop offset="46%" stop-color="#e2342a"/>
+      <stop offset="72%" stop-color="#b81f19"/>
+      <stop offset="100%" stop-color="#e2342a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d9a441" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#d9a441"/>
+      <stop offset="82%" stop-color="#f0c46b"/>
+      <stop offset="100%" stop-color="#d9a441" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="vign" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0805"/>
+      <stop offset="55%" stop-color="#0a0805" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.95  0 0 0 0 0.90  0 0 0 0 0.78  0 0 0 0.5 0"/>
+    </filter>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+
+    <style>
+      @keyframes riseIn   { from { opacity:0; transform:translateY(38px); } to { opacity:1; transform:translateY(0); } }
+      @keyframes riseSm   { from { opacity:0; transform:translateY(18px); } to { opacity:1; transform:translateY(0); } }
+      @keyframes fadeIn   { from { opacity:0; } to { opacity:1; } }
+      @keyframes sunRise  { from { opacity:0; transform:translateY(74px) scale(.94); } to { opacity:1; transform:translateY(0) scale(1); } }
+      @keyframes breathe  { 0%,100% { transform:scale(1); } 50% { transform:scale(1.035); } }
+      @keyframes draw     { to { stroke-dashoffset:0; } }
+      @keyframes sealIn   { from { opacity:0; transform:translateY(16px) scale(.9); } to { opacity:1; transform:translateY(0) scale(1); } }
+
+      .ease { animation-timing-function: cubic-bezier(.22,1,.36,1); animation-fill-mode: both; }
+      .sun-rise   { opacity:0; animation: sunRise 1500ms cubic-bezier(.16,1,.3,1) both; }
+      .sun-breathe{ transform-box: fill-box; transform-origin: center; animation: breathe 6.5s ease-in-out 1600ms infinite; }
+      .eyebrow    { opacity:0; animation: riseSm 900ms 250ms; animation-timing-function: cubic-bezier(.22,1,.36,1); animation-fill-mode: both; }
+      .word       { opacity:0; transform-box: fill-box; animation: riseIn 1150ms 380ms; animation-timing-function: cubic-bezier(.22,1,.36,1); animation-fill-mode: both; }
+      .role       { opacity:0; animation: riseSm 1000ms 640ms; animation-timing-function: cubic-bezier(.22,1,.36,1); animation-fill-mode: both; }
+      .seam       { stroke-dasharray: 560; stroke-dashoffset: 560; animation: draw 1500ms 820ms cubic-bezier(.16,1,.3,1) forwards; }
+      .seal       { opacity:0; transform-box: fill-box; transform-origin: center; animation: sealIn 900ms 720ms; animation-timing-function: cubic-bezier(.22,1,.36,1); animation-fill-mode: both; }
+      .code       { opacity:0; animation: fadeIn 900ms 1050ms both; }
+      .chrome     { opacity:0; animation: fadeIn 1200ms 1200ms both; }
+
+      @media (prefers-reduced-motion: reduce) {
+        .sun-rise,.eyebrow,.word,.role,.seal,.code,.chrome { opacity:1 !important; transform:none !important; animation:none !important; }
+        .sun-breathe { animation:none !important; }
+        .seam { stroke-dashoffset:0 !important; animation:none !important; }
+      }
+    </style>
+  </defs>
+
+  <!-- canvas -->
+  <rect width="1200" height="400" fill="#0a0805"/>
+
+  <!-- red sun, right-anchored: rises once, then breathes -->
+  <g class="sun-rise">
+    <g class="sun-breathe">
+      <circle cx="946" cy="204" r="150" fill="url(#sun)" opacity="0.55" filter="url(#soft)"/>
+      <circle cx="946" cy="204" r="118" fill="url(#sun)"/>
+    </g>
+  </g>
+
+  <!-- grain tooth over everything dark -->
+  <rect width="1200" height="400" filter="url(#grain)" opacity="0.06" style="mix-blend-mode:overlay"/>
+  <!-- left vignette so the wordmark always reads over the sun glow -->
+  <rect width="820" height="400" fill="url(#vign)"/>
+
+  <!-- eyebrow: vermillion tick + mono kicker -->
+  <g class="eyebrow">
+    <rect x="90" y="106" width="10" height="10" fill="#e2342a"/>
+    <text x="112" y="116" font-family="'DejaVu Sans Mono','SFMono-Regular','Consolas',monospace" font-size="14" letter-spacing="3.4" fill="#8f8770">FOR THE SAKE OF POWER AND BEAUTY</text>
+  </g>
+
+  <!-- wordmark -->
+  <text class="word" x="86" y="212" font-family="Georgia,'Iowan Old Style','Times New Roman',serif" font-size="98" font-weight="700" fill="#f3ede1" letter-spacing="-1">neur0map</text>
+
+  <!-- role -->
+  <text class="role" x="90" y="256" font-family="'DejaVu Sans Mono','SFMono-Regular','Consolas',monospace" font-size="15.5" letter-spacing="3.2" fill="#c7bfae">CYBERSECURITY<tspan fill="#e2342a"> · </tspan>NETWORK ENGINEER<tspan fill="#e2342a"> · </tspan>CREATOR OF RYOKU</text>
+
+  <!-- kintsugi seam draws across -->
+  <path class="seam" d="M90 286 C 210 276, 300 300, 430 284 S 620 272, 700 288" stroke="url(#gold)" stroke-width="2.4" stroke-linecap="round"/>
+
+  <!-- vermillion 力 seal, top-right, hard brutalist offset -->
+  <g class="seal">
+    <g transform="translate(1058,42)">
+      <rect x="7" y="7" width="94" height="94" fill="#000000"/>
+      <rect width="94" height="94" fill="#e2342a"/>
+      <g stroke="#fbeee2" stroke-width="11.5" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(1,1)">
+        <path d="M27 31 L61 28 Q73 27 73 43 L73 60 Q73 74 57 75"/>
+        <path d="M47 18 Q41 47 38 60 Q33 72 18 84"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- registration chrome -->
+  <g class="chrome" stroke="#8f8770" stroke-width="1.2" opacity="0.55">
+    <g transform="translate(52,50)">
+      <line x1="-11" y1="0" x2="-3" y2="0"/><line x1="3" y1="0" x2="11" y2="0"/>
+      <line x1="0" y1="-11" x2="0" y2="-3"/><line x1="0" y1="3" x2="0" y2="11"/>
+    </g>
+    <g transform="translate(1150,356)">
+      <line x1="-11" y1="0" x2="-3" y2="0"/><line x1="3" y1="0" x2="11" y2="0"/>
+      <line x1="0" y1="-11" x2="0" y2="-3"/><line x1="0" y1="3" x2="0" y2="11"/>
+    </g>
+  </g>
+  <text class="code" x="90" y="372" font-family="'DejaVu Sans Mono','SFMono-Regular','Consolas',monospace" font-size="12" letter-spacing="4" fill="#6f6752">RYOKU / ARCH — MMXXVI</text>
+</svg>
