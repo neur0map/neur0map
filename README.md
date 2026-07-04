@@ -4,9 +4,7 @@
 
 ### 力 &nbsp; whoami
 
-<p align="center">
-  <img width="340" src="assets/cyber-oni.webp" alt="A marble warrior bust whose irezumi is rendered as glowing vermillion and teal network traces, cracked and mended in gold kintsugi before a single red sun." />
-</p>
+<img align="right" width="300" src="assets/cyber-oni.webp" alt="A marble warrior bust whose irezumi is rendered as glowing vermillion and teal network traces, cracked and mended in gold kintsugi before a single red sun." />
 
 Cybersecurity &amp; network engineer. I take systems apart to learn how they
 break, then build them back sharper. Creator of **[Ryoku](https://ryoku.dev)** —
@@ -20,10 +18,12 @@ in that order, and never one without the other.
 - **Systems &amp; shells** &nbsp;—&nbsp; hand-built desktops, hand-written Quickshell, no framework tax
 - **Local-first** &nbsp;—&nbsp; tooling that runs on your machine, on your terms
 
+<br clear="right"/>
+
 
 ### 力 &nbsp; ryoku
 
-![Ryoku — a Greek marble warrior fused with Japanese irezumi, cracked and mended in gold kintsugi, before a single vermillion sun.](assets/ronin-banner.webp)
+![Ryoku — a colonnade of classical Greek marble columns interwoven with Japanese torii gates, receding through red mist toward a single vermillion sun, veined with molten-gold kintsugi.](assets/torii-band.webp)
 
 **[Ryoku](https://ryoku.dev)** is an opinionated, premium Arch workstation:
 classical beauty carrying warrior power, cracked and mended in gold, shot on
