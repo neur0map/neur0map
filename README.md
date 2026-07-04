@@ -4,7 +4,9 @@
 
 ### 力 &nbsp; whoami
 
-<img align="right" width="300" src="assets/cyber-oni.webp" alt="A marble warrior bust whose irezumi is rendered as glowing vermillion and teal network traces, cracked and mended in gold kintsugi before a single red sun." />
+<p align="center">
+  <img width="340" src="assets/cyber-oni.webp" alt="A marble warrior bust whose irezumi is rendered as glowing vermillion and teal network traces, cracked and mended in gold kintsugi before a single red sun." />
+</p>
 
 Cybersecurity &amp; network engineer. I take systems apart to learn how they
 break, then build them back sharper. Creator of **[Ryoku](https://ryoku.dev)** —
@@ -18,7 +20,6 @@ in that order, and never one without the other.
 - **Systems &amp; shells** &nbsp;—&nbsp; hand-built desktops, hand-written Quickshell, no framework tax
 - **Local-first** &nbsp;—&nbsp; tooling that runs on your machine, on your terms
 
-<br clear="right"/>
 
 ### 力 &nbsp; ryoku
 
