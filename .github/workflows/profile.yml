@@ -1,0 +1,39 @@
+name: Refresh profile
+
+# Rebuilds the profile when it changes and once a night, so the numbers stay
+# current. Commits only if something changed.
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "profile/build.mjs"
+      - "profile/profile.json"
+      - "profile/ryoku.json"
+      - "profile/fonts/**"
+      - "profile/art/**"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node profile/build.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # git diff doesn't see new files, so stage before checking for changes
+      - run: |
+          git add profile README.md
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "refresh the profile numbers"
+          git push

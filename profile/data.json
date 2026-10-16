@@ -1,0 +1,48 @@
+{
+  "ryoku": {
+    "stars": 1389,
+    "forks": 87
+  },
+  "contributors": {
+    "count": 15,
+    "mine": 2973
+  },
+  "commits": 3972,
+  "languages": {
+    "QML": 8187796,
+    "Go": 5665748,
+    "Shell": 1883466,
+    "JavaScript": 696460,
+    "Python": 245594,
+    "CSS": 136267,
+    "GLSL": 125524,
+    "Lua": 77449,
+    "C++": 67076,
+    "C": 18909,
+    "HTML": 9564,
+    "CMake": 2123,
+    "Makefile": 1814
+  },
+  "release": {
+    "release": "v0.75.3-beta.20",
+    "name": "Onogoro"
+  },
+  "work": {
+    "neur0map/glazepkg": {
+      "stars": 647,
+      "language": "Go"
+    },
+    "Ryoku-dev/ryostore": {
+      "stars": 10,
+      "language": "QML"
+    },
+    "neur0map/prowl": {
+      "stars": 6,
+      "language": "Go"
+    },
+    "Ryoku-dev/ryotunes": {
+      "stars": 9,
+      "language": "Rust"
+    }
+  }
+}

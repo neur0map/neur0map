@@ -1,0 +1,137 @@
+{
+  "user": "neur0map",
+  "branch": "main",
+  "sun": "0",
+  "portrait": "hero",
+  "rows": [
+    [
+      "ROLE",
+      "main developer of Ryoku™"
+    ],
+    [
+      "BY TRADE",
+      "security & network engineer"
+    ],
+    [
+      "WORKS IN",
+      "Go · QML · Lua · Bash"
+    ],
+    [
+      "COMMITS TO RYOKU",
+      "@commits"
+    ]
+  ],
+  "now": "@release",
+  "bio": "Most of my time goes into Ryoku. I work on the shell, the installer, the package repos and the update system, and I go through the issues and pull requests people send in. Everything further down this page is part of Ryoku or ships with it.",
+  "focus": [
+    {
+      "title": "SHELL",
+      "text": "the bars, dock, Hub and widgets, in Quickshell",
+      "glyph": "tiles"
+    },
+    {
+      "title": "INSTALLER",
+      "text": "the guided installer, the ISOs and the install script",
+      "glyph": "install"
+    },
+    {
+      "title": "UPDATES",
+      "text": "signed package repos, ryoku update and ryoku doctor",
+      "glyph": "seal"
+    }
+  ],
+  "work": [
+    {
+      "repo": "neur0map/glazepkg",
+      "desc": "Every package on the machine in one list, across 46 package managers. Ryoku ships it as gpk.",
+      "art": "bars",
+      "rows": [
+        [
+          "pacman",
+          1204
+        ],
+        [
+          "aur",
+          86
+        ],
+        [
+          "flatpak",
+          12
+        ],
+        [
+          "pip",
+          9
+        ],
+        [
+          "npm",
+          31
+        ]
+      ]
+    },
+    {
+      "repo": "Ryoku-dev/ryostore",
+      "desc": "The Ryoku store catalogue: widgets, plugins, lock screens and bundles from the community.",
+      "art": "grid",
+      "labels": [
+        "WIDGETS",
+        "PLUGINS",
+        "BUNDLES"
+      ]
+    },
+    {
+      "repo": "neur0map/prowl",
+      "desc": "A local code index. Agents ask it where something lives and get the file and line back instead of reading whole files. Ships with Rashin.",
+      "art": "terminal",
+      "cmd": "prowl references Materialize",
+      "out": [
+        [
+          "wm.go",
+          ":383",
+          "updater.Materialize()"
+        ],
+        [
+          "reset.go",
+          ":86",
+          "Materialize()"
+        ]
+      ]
+    },
+    {
+      "repo": "Ryoku-dev/ryotunes",
+      "desc": "The music player made for Ryoku. YouTube, Spotify and SoundCloud in one Quickshell app that changes colour with your wallpaper.",
+      "art": "player",
+      "providers": [
+        "YOUTUBE",
+        "SPOTIFY",
+        "SOUNDCLOUD"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "label": "site",
+      "value": "ryoku.dev",
+      "href": "https://ryoku.dev"
+    },
+    {
+      "label": "docs",
+      "value": "docs.ryoku.dev",
+      "href": "https://docs.ryoku.dev"
+    },
+    {
+      "label": "community",
+      "value": "discord",
+      "href": "https://discord.gg/8KjBmUEyKA"
+    },
+    {
+      "label": "youtube",
+      "value": "@neur0_map",
+      "href": "https://www.youtube.com/@neur0_map"
+    },
+    {
+      "label": "x",
+      "value": "@neur0map",
+      "href": "https://x.com/neur0map"
+    }
+  ]
+}

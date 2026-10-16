@@ -1,68 +1,21 @@
-<img src="assets/hero.svg" width="100%" alt="neur0map — cybersecurity and network engineer, creator of Ryoku. For the sake of power and beauty." />
+<!-- Built by profile/build.mjs. Edit profile/profile.json, not this file. -->
 
-<br/>
+<a href="https://ryoku.dev"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/cover.svg?v=1d8fe23fc867" width="100%" alt="neur0map, main developer of Ryoku™. For the sake of power and beauty."></a>
 
-### 力 &nbsp; whoami
+<a href="https://github.com/Ryoku-dev/ryoku"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/project.svg?v=5ff3aff9ad24" width="100%" alt="Ryoku: One cohesive Wayland desktop, its installers, and the system that reproduces it from a single source of truth. 1,389 stars, 15 contributors."></a>
 
-<img align="right" width="300" src="assets/cyber-oni.webp" alt="A marble warrior bust whose irezumi is rendered as glowing vermillion and teal network traces, cracked and mended in gold kintsugi before a single red sun." />
+<a href="https://ryoku.dev/showroom"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/desktop.svg?v=46cbeee202df" width="100%" alt="The Ryoku desktop: Red August, Blue hour, Teal."></a>
 
-Cybersecurity &amp; network engineer. I take systems apart to learn how they
-break, then build them back sharper. Creator of **[Ryoku](https://ryoku.dev)** —
-a hand-built Arch Linux desktop where the whole shell is written from scratch.
+<a href="https://docs.ryoku.dev/docs/install"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/get.svg?v=6fd6b3e4cbae" width="100%" alt="Get Ryoku. fresh disk: boot the signed iso. already on arch: curl -fsSL https://raw.githubusercontent.com/ryoku-dev/ryoku/main/ryoku-shell-installer/install.sh | bash"></a>
 
-I live close to the wire: packets, protocols, and the machines that route them;
-hardened Linux; tools that respect the person at the keyboard. Power and beauty,
-in that order, and never one without the other.
+<a href="https://github.com/neur0map?tab=repositories"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/whoami.svg?v=0a471aef39fa" width="100%" alt="whoami: Most of my time goes into Ryoku. I work on the shell, the installer, the package repos and the update system, and I go through the issues and pull requests people send in. Everything further down this page is part of Ryoku or ships with it."></a>
 
-- **Recon &amp; offense** &nbsp;—&nbsp; reconnaissance, network security, the quiet craft of not being seen
-- **Systems &amp; shells** &nbsp;—&nbsp; hand-built desktops, hand-written Quickshell, no framework tax
-- **Local-first** &nbsp;—&nbsp; tooling that runs on your machine, on your terms
+<a href="https://github.com/neur0map?tab=repositories"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/work.svg?v=d0b4ff1c70f0" width="100%" alt="What I maintain."></a>
+<a href="https://github.com/neur0map/glazepkg"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/work-1.svg?v=a982a4b36c45" width="100%" alt="glazepkg: Every package on the machine in one list, across 46 package managers. Ryoku ships it as gpk."></a>
+<a href="https://github.com/Ryoku-dev/ryostore"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/work-2.svg?v=1344797a1c5d" width="100%" alt="ryostore: The Ryoku store catalogue: widgets, plugins, lock screens and bundles from the community."></a>
+<a href="https://github.com/neur0map/prowl"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/work-3.svg?v=9dc2038d76da" width="100%" alt="prowl: A local code index. Agents ask it where something lives and get the file and line back instead of reading whole files. Ships with Rashin."></a>
+<a href="https://github.com/Ryoku-dev/ryotunes"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/work-4.svg?v=5f0bc5bf50eb" width="100%" alt="ryotunes: The music player made for Ryoku. YouTube, Spotify and SoundCloud in one Quickshell app that changes colour with your wallpaper."></a>
 
-<br clear="right"/>
+<a href="https://ryoku.dev"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/link-1.svg?v=b23eed8d5723" width="20%" alt="site: ryoku.dev"></a><a href="https://docs.ryoku.dev"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/link-2.svg?v=1a628029a57a" width="20%" alt="docs: docs.ryoku.dev"></a><a href="https://discord.gg/8KjBmUEyKA"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/link-3.svg?v=502296ea77ca" width="20%" alt="community: discord"></a><a href="https://www.youtube.com/@neur0_map"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/link-4.svg?v=ee03d5df1d6f" width="20%" alt="youtube: @neur0_map"></a><a href="https://x.com/neur0map"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/link-5.svg?v=fbf27112d350" width="20%" alt="x: @neur0map"></a>
 
-
-### 力 &nbsp; ryoku
-
-![Ryoku — a colonnade of classical Greek marble columns interwoven with Japanese torii gates, receding through red mist toward a single vermillion sun, veined with molten-gold kintsugi.](assets/torii-band.webp)
-
-**[Ryoku](https://ryoku.dev)** is an opinionated, premium Arch workstation:
-classical beauty carrying warrior power, cracked and mended in gold, shot on
-black. The Hyprland config is Lua, the shell is Quickshell / QML, the installer
-and tooling are Go. It ships as signed packages.
-
-> *For the sake of power and beauty.*
-
-**[ryoku.dev](https://ryoku.dev)** &nbsp;·&nbsp; [Docs](https://docs.ryoku.dev) &nbsp;·&nbsp; [Source](https://github.com/neur0map/ryoku-arch) &nbsp;·&nbsp; [Discord](https://discord.gg/8KjBmUEyKA) &nbsp;·&nbsp; [r/RyokuArch](https://www.reddit.com/r/RyokuArch/)
-
-<img width="49%" src="assets/ryoku-desktop.webp" alt="Ryoku desktop with widgets" /> &nbsp; <img width="49%" src="assets/ryoku-deck.webp" alt="Ryoku control deck" />
-
-### 力 &nbsp; selected work
-
-**[glazepkg](https://github.com/neur0map/glazepkg)** &nbsp; `Go` &nbsp; [![glazepkg stars](https://img.shields.io/github/stars/neur0map/glazepkg?style=flat-square&labelColor=100d08&color=e2342a)](https://github.com/neur0map/glazepkg)
-<br/>The official RyokuArch package manager. Every package you have installed, from every source, in one clear place.
-
-**[prowl-agent](https://github.com/neur0map/prowl-agent)** &nbsp; `Go` &nbsp; [![prowl-agent stars](https://img.shields.io/github/stars/neur0map/prowl-agent?style=flat-square&labelColor=100d08&color=e2342a)](https://github.com/neur0map/prowl-agent)
-<br/>A local-first config-intelligence backend. It lets coding agents read a ricing / dotfiles setup over MCP — what owns each file, how to reload it, what breaks if you touch it.
-
-### 力 &nbsp; stack
-
-[![Go](https://img.shields.io/badge/Go-0a0805?style=for-the-badge&logo=go&logoColor=e2342a&labelColor=0a0805)](https://go.dev)
-[![QML](https://img.shields.io/badge/QML-0a0805?style=for-the-badge&logo=qt&logoColor=e2342a&labelColor=0a0805)](https://doc.qt.io/qt-6/qmlapplications.html)
-[![Shell](https://img.shields.io/badge/Shell-0a0805?style=for-the-badge&logo=gnubash&logoColor=e2342a&labelColor=0a0805)](https://www.gnu.org/software/bash/)
-[![Vue](https://img.shields.io/badge/Vue-0a0805?style=for-the-badge&logo=vuedotjs&logoColor=e2342a&labelColor=0a0805)](https://vuejs.org)
-[![HTML](https://img.shields.io/badge/HTML-0a0805?style=for-the-badge&logo=html5&logoColor=e2342a&labelColor=0a0805)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-0a0805?style=for-the-badge&logo=css&logoColor=e2342a&labelColor=0a0805)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0a0805?style=for-the-badge&logo=javascript&logoColor=e2342a&labelColor=0a0805)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### 力 &nbsp; connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-100d08?style=for-the-badge&logo=github&logoColor=e2342a&labelColor=0a0805)](https://github.com/neur0map)
-[![X](https://img.shields.io/badge/@neur0map-100d08?style=for-the-badge&logo=x&logoColor=e2342a&labelColor=0a0805)](https://x.com/neur0map)
-[![Discord](https://img.shields.io/badge/Discord-100d08?style=for-the-badge&logo=discord&logoColor=e2342a&labelColor=0a0805)](https://discord.gg/8KjBmUEyKA)
-[![ryoku.dev](https://img.shields.io/badge/ryoku.dev-100d08?style=for-the-badge&logo=hyprland&logoColor=e2342a&labelColor=0a0805)](https://ryoku.dev)
-
----
-
-<sub>Art forged with `fal-ai/nano-banana-pro` and mended by hand. Built in the open, with kansha (感謝).</sub>
-
-<sub>力</sub>
+<a href="https://github.com/Ryoku-dev/ryoku/blob/main/CONTRIBUTING.md"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/colophon.svg?v=3cce72baf298" width="100%" alt="Help build Ryoku: read CONTRIBUTING.md."></a>

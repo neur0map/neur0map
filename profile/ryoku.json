@@ -1,0 +1,40 @@
+{
+  "repo": "Ryoku-dev/ryoku",
+  "site": "https://ryoku.dev",
+  "install": "https://docs.ryoku.dev/docs/install",
+  "showroom": "https://ryoku.dev/showroom",
+  "contributing": "https://github.com/Ryoku-dev/ryoku/blob/main/CONTRIBUTING.md",
+  "release": "https://repo.ryoku.dev/stable/x86_64/release.json",
+  "about": "One cohesive Wayland desktop, its installers, and the system that reproduces it from a single source of truth.",
+  "rows": [
+    ["COMPOSITOR", "@swap Hyprland|niri"],
+    ["SHELL", "Quickshell on Go IPC"],
+    ["THEMING", "matugen, from your wallpaper"],
+    ["DELIVERY", "signed packages"]
+  ],
+  "editions": [
+    { "name": "ARCH", "stable": true },
+    { "name": "CACHYOS", "stable": true },
+    { "name": "VOID", "hue": "#6daf8c", "paper": "#05110a", "ink": "#c1cac4" },
+    { "name": "FEDORA", "hue": "#6ea5cf", "paper": "#030f19", "ink": "#bfc9d1" },
+    { "name": "NIXOS", "hue": "#9299d3", "paper": "#0b0c1b", "ink": "#c4c6d2" }
+  ],
+  "shots": [
+    { "file": "red-august.webp", "title": "Red August", "note": "A samurai under the sun" },
+    { "file": "blue-hour.webp", "title": "Blue hour", "note": "A red sun, a big clock" },
+    { "file": "teal.webp", "title": "Teal", "note": "A red saber in the dark" }
+  ],
+  "get": {
+    "iso": {
+      "label": "FRESH DISK",
+      "title": "Boot the signed ISO",
+      "note": "Download it from ryoku.dev. ISO installs get Btrfs snapshots, Limine snapshot boot and the Ryoku boot guard."
+    },
+    "convert": {
+      "label": "ALREADY ON ARCH",
+      "title": "Convert it in place",
+      "note": "It backs up your configs, leaves a restore.sh to undo it and never partitions a disk. It is still young, so back up your system first.",
+      "command": "curl -fsSL https://raw.githubusercontent.com/ryoku-dev/ryoku/main/ryoku-shell-installer/install.sh | bash"
+    }
+  }
+}
