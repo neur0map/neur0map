@@ -1,18 +1,18 @@
 {
   "ryoku": {
-    "stars": 1438,
-    "forks": 93
+    "stars": 1449,
+    "forks": 94
   },
   "contributors": {
     "count": 15,
     "mine": 2973
   },
-  "commits": 3972,
+  "commits": 3974,
   "languages": {
-    "QML": 8187796,
+    "QML": 8188365,
     "Go": 5665748,
     "Shell": 1883466,
-    "JavaScript": 696460,
+    "JavaScript": 698501,
     "Python": 245594,
     "CSS": 136267,
     "GLSL": 125524,
@@ -29,11 +29,11 @@
   },
   "work": {
     "neur0map/glazepkg": {
-      "stars": 649,
+      "stars": 650,
       "language": "Go"
     },
     "Ryoku-dev/ryostore": {
-      "stars": 11,
+      "stars": 12,
       "language": "QML"
     },
     "neur0map/prowl": {
