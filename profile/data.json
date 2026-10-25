@@ -1,27 +1,33 @@
 {
   "ryoku": {
-    "stars": 1470,
-    "forks": 97
+    "stars": 1492,
+    "forks": 96
   },
   "contributors": {
-    "count": 15,
-    "mine": 2973
+    "count": 32,
+    "mine": 3879
   },
-  "commits": 3974,
+  "commits": 5417,
   "languages": {
-    "QML": 8188365,
-    "Go": 5665748,
-    "Shell": 1883466,
-    "JavaScript": 698501,
-    "Python": 245594,
-    "CSS": 136267,
-    "GLSL": 125524,
-    "Lua": 77449,
-    "C++": 67076,
-    "C": 18909,
-    "HTML": 9564,
-    "CMake": 2123,
-    "Makefile": 1814
+    "QML": 28343110,
+    "Go": 9673799,
+    "Shell": 4609609,
+    "JavaScript": 1868808,
+    "Python": 1206721,
+    "C++": 893418,
+    "Svelte": 490409,
+    "GLSL": 383621,
+    "TypeScript": 158005,
+    "Nix": 95259,
+    "Lua": 82901,
+    "CSS": 81300,
+    "C": 27307,
+    "Rust": 13450,
+    "CMake": 9465,
+    "Go Template": 9302,
+    "Makefile": 1797,
+    "HTML": 941,
+    "Meson": 645
   },
   "release": {
     "release": "v0.75.3-beta.20",
@@ -33,7 +39,7 @@
       "language": "Go"
     },
     "Ryoku-dev/ryostore": {
-      "stars": 12,
+      "stars": 13,
       "language": "QML"
     },
     "neur0map/prowl": {
@@ -41,7 +47,7 @@
       "language": "Go"
     },
     "Ryoku-dev/ryotunes": {
-      "stars": 10,
+      "stars": 11,
       "language": "Rust"
     }
   }
