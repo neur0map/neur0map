@@ -33,7 +33,7 @@
 </style>
 <rect width="880" height="56" rx="2" fill="#000000"/>
 <text class="m" x="36" y="30"><tspan class="sun">05</tspan>  WHAT I MAINTAIN</text>
-<text class="m fnt" x="844" y="30" text-anchor="end">4 PROJECTS · 679 STARS</text>
+<text class="m fnt" x="844" y="30" text-anchor="end">4 PROJECTS · 680 STARS</text>
 
 <line class="hair" x1="36" x2="844" y1="42.5" y2="42.5"/>
 <rect width="880" height="56" rx="2" filter="url(#grain)" opacity=".055" pointer-events="none"/>
