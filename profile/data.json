@@ -1,7 +1,7 @@
 {
   "ryoku": {
-    "stars": 1520,
-    "forks": 100
+    "stars": 1531,
+    "forks": 101
   },
   "contributors": {
     "count": 35,
@@ -47,7 +47,7 @@
       "language": "Go"
     },
     "Ryoku-dev/ryotunes": {
-      "stars": 12,
+      "stars": 13,
       "language": "Rust"
     }
   }
