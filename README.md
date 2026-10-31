@@ -2,7 +2,7 @@
 
 <a href="https://ryoku.dev"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/cover.svg?v=17400622c0c8" width="100%" alt="neur0map, main developer of Ryoku™. For the sake of power and beauty."></a>
 
-<a href="https://github.com/Ryoku-dev/ryoku"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/project.svg?v=c29e7aedd783" width="100%" alt="Ryoku: One cohesive Wayland desktop, its installers, and the system that reproduces it from a single source of truth. 1,568 stars, 38 contributors."></a>
+<a href="https://github.com/Ryoku-dev/ryoku"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/project.svg?v=a9b281db3a44" width="100%" alt="Ryoku: One cohesive Wayland desktop, its installers, and the system that reproduces it from a single source of truth. 1,602 stars, 38 contributors."></a>
 
 <a href="https://ryoku.dev/showroom"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/desktop.svg?v=46cbeee202df" width="100%" alt="The Ryoku desktop: Red August, Blue hour, Teal."></a>
 
