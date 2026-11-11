@@ -1,26 +1,26 @@
 {
   "ryoku": {
-    "stars": 1809,
+    "stars": 1848,
     "forks": 122
   },
   "contributors": {
-    "count": 38,
-    "mine": 4072
+    "count": 48,
+    "mine": 4222
   },
-  "commits": 5727,
+  "commits": 6060,
   "languages": {
-    "QML": 28488218,
-    "Go": 9887220,
-    "Shell": 4650866,
-    "JavaScript": 1883588,
-    "Python": 1208705,
-    "C++": 894506,
-    "Svelte": 490409,
-    "GLSL": 383621,
-    "TypeScript": 158005,
+    "QML": 28989500,
+    "Go": 10072013,
+    "Shell": 4728742,
+    "JavaScript": 2255210,
+    "Python": 1444844,
+    "C++": 894947,
+    "Svelte": 491140,
+    "GLSL": 384144,
+    "TypeScript": 166928,
     "Nix": 95465,
-    "Lua": 85225,
-    "CSS": 81300,
+    "Lua": 87146,
+    "CSS": 81381,
     "C": 27307,
     "Rust": 13450,
     "CMake": 9465,
@@ -35,11 +35,11 @@
   },
   "work": {
     "neur0map/glazepkg": {
-      "stars": 650,
+      "stars": 652,
       "language": "Go"
     },
     "Ryoku-dev/ryostore": {
-      "stars": 20,
+      "stars": 21,
       "language": "QML"
     },
     "neur0map/prowl": {
