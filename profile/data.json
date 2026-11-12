@@ -1,25 +1,25 @@
 {
   "ryoku": {
-    "stars": 1848,
+    "stars": 1890,
     "forks": 122
   },
   "contributors": {
-    "count": 48,
-    "mine": 4222
+    "count": 49,
+    "mine": 4252
   },
-  "commits": 6060,
+  "commits": 6109,
   "languages": {
-    "QML": 28989500,
-    "Go": 10072013,
-    "Shell": 4728742,
-    "JavaScript": 2255210,
+    "QML": 29005965,
+    "Go": 10102468,
+    "Shell": 4743498,
+    "JavaScript": 2255493,
     "Python": 1444844,
     "C++": 894947,
     "Svelte": 491140,
     "GLSL": 384144,
     "TypeScript": 166928,
     "Nix": 95465,
-    "Lua": 87146,
+    "Lua": 88318,
     "CSS": 81381,
     "C": 27307,
     "Rust": 13450,
