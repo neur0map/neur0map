@@ -1,7 +1,7 @@
 {
   "ryoku": {
-    "stars": 1927,
-    "forks": 123
+    "stars": 1943,
+    "forks": 124
   },
   "contributors": {
     "count": 49,
@@ -39,7 +39,7 @@
       "language": "Go"
     },
     "Ryoku-dev/ryostore": {
-      "stars": 21,
+      "stars": 22,
       "language": "QML"
     },
     "neur0map/prowl": {
