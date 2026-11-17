@@ -1,13 +1,13 @@
 {
   "ryoku": {
-    "stars": 1978,
-    "forks": 128
+    "stars": 1994,
+    "forks": 130
   },
   "contributors": {
-    "count": 49,
-    "mine": 4252
+    "count": 55,
+    "mine": 4331
   },
-  "commits": 6109,
+  "commits": 6233,
   "languages": {
     "QML": 29005965,
     "Go": 10102468,
@@ -30,20 +30,20 @@
     "Meson": 645
   },
   "release": {
-    "release": "v0.75.3-beta.20",
-    "name": "Onogoro"
+    "release": "v1.1.0",
+    "name": "Amaterasu"
   },
   "work": {
     "neur0map/glazepkg": {
-      "stars": 652,
+      "stars": 653,
       "language": "Go"
     },
     "Ryoku-dev/ryostore": {
-      "stars": 23,
+      "stars": 24,
       "language": "QML"
     },
     "neur0map/prowl": {
-      "stars": 5,
+      "stars": 6,
       "language": "Go"
     },
     "Ryoku-dev/ryotunes": {
