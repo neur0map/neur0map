@@ -1,7 +1,7 @@
 {
   "ryoku": {
-    "stars": 1994,
-    "forks": 130
+    "stars": 2011,
+    "forks": 131
   },
   "contributors": {
     "count": 55,
@@ -9,17 +9,17 @@
   },
   "commits": 6233,
   "languages": {
-    "QML": 29005965,
-    "Go": 10102468,
-    "Shell": 4743498,
-    "JavaScript": 2255493,
-    "Python": 1444844,
+    "QML": 29157404,
+    "Go": 10253559,
+    "Shell": 4787407,
+    "JavaScript": 2260922,
+    "Python": 1455888,
     "C++": 894947,
-    "Svelte": 491140,
+    "Svelte": 491199,
     "GLSL": 384144,
-    "TypeScript": 166928,
+    "TypeScript": 169805,
     "Nix": 95465,
-    "Lua": 88318,
+    "Lua": 88501,
     "CSS": 81381,
     "C": 27307,
     "Rust": 13450,
@@ -35,7 +35,7 @@
   },
   "work": {
     "neur0map/glazepkg": {
-      "stars": 653,
+      "stars": 654,
       "language": "Go"
     },
     "Ryoku-dev/ryostore": {
@@ -47,7 +47,7 @@
       "language": "Go"
     },
     "Ryoku-dev/ryotunes": {
-      "stars": 16,
+      "stars": 15,
       "language": "Rust"
     }
   }
