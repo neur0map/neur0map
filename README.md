@@ -1,8 +1,8 @@
 <!-- Built by profile/build.mjs. Edit profile/profile.json, not this file. -->
 
-<a href="https://ryoku.dev"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/cover.svg?v=6fed478e3e26" width="100%" alt="neur0map, main developer of Ryoku™. For the sake of power and beauty."></a>
+<a href="https://ryoku.dev"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/cover.svg?v=469142991662" width="100%" alt="neur0map, main developer of Ryoku™. For the sake of power and beauty."></a>
 
-<a href="https://github.com/Ryoku-dev/ryoku"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/project.svg?v=6a4cd2cc8b72" width="100%" alt="Ryoku: One cohesive Wayland desktop, its installers, and the system that reproduces it from a single source of truth. 2,043 stars, 55 contributors."></a>
+<a href="https://github.com/Ryoku-dev/ryoku"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/project.svg?v=eaca40458eee" width="100%" alt="Ryoku: One cohesive Wayland desktop, its installers, and the system that reproduces it from a single source of truth. 2,053 stars, 55 contributors."></a>
 
 <a href="https://ryoku.dev/showroom"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/desktop.svg?v=46cbeee202df" width="100%" alt="The Ryoku desktop: Red August, Blue hour, Teal."></a>
 
@@ -10,8 +10,8 @@
 
 <a href="https://github.com/neur0map?tab=repositories"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/whoami.svg?v=0a471aef39fa" width="100%" alt="whoami: Most of my time goes into Ryoku. I work on the shell, the installer, the package repos and the update system, and I go through the issues and pull requests people send in. Everything further down this page is part of Ryoku or ships with it."></a>
 
-<a href="https://github.com/neur0map?tab=repositories"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/work.svg?v=83e32d0dc185" width="100%" alt="What I maintain."></a>
-<a href="https://github.com/neur0map/glazepkg"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/work-1.svg?v=f0b3fa7254e9" width="100%" alt="glazepkg: Every package on the machine in one list, across 46 package managers. Ryoku ships it as gpk."></a>
+<a href="https://github.com/neur0map?tab=repositories"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/work.svg?v=127840bf51ba" width="100%" alt="What I maintain."></a>
+<a href="https://github.com/neur0map/glazepkg"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/work-1.svg?v=4ffb8c643add" width="100%" alt="glazepkg: Every package on the machine in one list, across 46 package managers. Ryoku ships it as gpk."></a>
 <a href="https://github.com/Ryoku-dev/ryostore"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/work-2.svg?v=23a57cd0733f" width="100%" alt="ryostore: The Ryoku store catalogue: widgets, plugins, lock screens and bundles from the community."></a>
 <a href="https://github.com/neur0map/prowl"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/work-3.svg?v=9dc2038d76da" width="100%" alt="prowl: A local code index. Agents ask it where something lives and get the file and line back instead of reading whole files. Ships with Rashin."></a>
 <a href="https://github.com/Ryoku-dev/ryotunes"><img src="https://raw.githubusercontent.com/neur0map/neur0map/main/profile/work-4.svg?v=cad0da497a81" width="100%" alt="ryotunes: The music player made for Ryoku. YouTube, Spotify and SoundCloud in one Quickshell app that changes colour with your wallpaper."></a>
