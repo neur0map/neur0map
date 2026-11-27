@@ -1,7 +1,7 @@
 {
   "ryoku": {
-    "stars": 2151,
-    "forks": 142
+    "stars": 2167,
+    "forks": 145
   },
   "contributors": {
     "count": 55,
@@ -35,7 +35,7 @@
   },
   "work": {
     "neur0map/glazepkg": {
-      "stars": 657,
+      "stars": 658,
       "language": "Go"
     },
     "Ryoku-dev/ryostore": {
